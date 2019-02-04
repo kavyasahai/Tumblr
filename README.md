@@ -11,4 +11,4 @@ Tumblr is an app that allows users to browse through pictures posted by other us
 
 ### App Walkthough GIF
 
-<img src="http://g.recordit.co/y4FdUSibnx.gif" width=800><br>
+<img src="http://g.recordit.co/y4FdUSibnx.gif" width=250><br>
